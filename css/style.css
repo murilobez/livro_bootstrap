@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.butpesq{
+    background-color: #BA653B;
+    border-color: #BA653B;
+    color: black;
+    font-family: 'Karla', sans-serif;
+}
+.butpesq:hover{
+    background-color: #653F2A;
+    border-color: #653F2A;
+    color: #000;
+    font-family: 'Karla', sans-serif;
+    transition: all 0.3s ease;
+}
+
