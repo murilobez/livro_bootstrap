@@ -3,14 +3,14 @@ html{
 }
 
 .butpesq{
-    background-color: #BA653B;
-    border-color: #BA653B;
+    background-color: #f25278;
+    border-color: #f25278;
     color: black;
     font-family: 'Karla', sans-serif;
 }
 .butpesq:hover{
-    background-color: #653F2A;
-    border-color: #653F2A;
+    background-color: #FE7F9C;
+    border-color: #FE7F9C;
     color: #000;
     font-family: 'Karla', sans-serif;
     transition: all 0.3s ease;
