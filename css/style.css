@@ -11,8 +11,25 @@ html{
 .butpesq:hover{
     background-color: #FE7F9C;
     border-color: #FE7F9C;
-    color: #000;
+    color: whitesmoke;
     font-family: 'Karla', sans-serif;
     transition: all 0.3s ease;
 }
 
+.justify{
+    text-align: justify;
+    padding: 2%;
+}
+
+h1{
+    margin-bottom: 3%;
+}
+
+#about, #gallery{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.photoshadow{
+    box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.3);;
+}
