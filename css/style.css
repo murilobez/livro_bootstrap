@@ -33,3 +33,24 @@ h1{
 .photoshadow{
     box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.3);;
 }
+
+.dropstyle{
+    background-color: pink;
+    border-color: #000    ;
+}
+
+.dropstyle:hover{
+    background-color: pink;
+    border-color: #000;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.dropitem{
+    color: #59554C;
+}
+
+.dropitem:hover{
+    color: white;
+    transition: all 0.3s ease;
+}
